@@ -43,23 +43,12 @@ v2ray/                # V2Ray/Xray geo-data + routing configs (auto-generated)
     ├── routing_base64.txt    # Base64-encoded (for subscription header)
     └── routing_header.txt    # Ready-to-use header line
 
-build.py              # MihoMo rule-set builder
-build_dat.py          # V2Ray .dat + routing config builder
 template.yaml         # Remnawave subscription template
 ```
 
 ## Auto-update
 
-Everything is rebuilt daily via GitHub Actions (04:00 UTC).
-
-Manual: **Actions → Build Rule-Sets → Run workflow**
-
-## Local build
-
-```bash
-python3 build.py       # MihoMo rule-sets → release/
-python3 build_dat.py   # V2Ray .dat files → v2ray/
-```
+Everything is rebuilt every 4 hours via GitHub Actions.
 
 ---
 
