@@ -16,6 +16,7 @@ payload:
   - PROCESS-NAME,javaw.exe
   - PROCESS-NAME,Minecraft.exe
   - PROCESS-NAME,FragPunk.exe
+  - PROCESS-NAME-REGEX,DeadByDaylight.*
   - PROCESS-NAME,dota2.exe
   - PROCESS-NAME,deadlock.exe
   - PROCESS-NAME-REGEX,.*GTA5.*
@@ -46,7 +47,9 @@ payload:
   - PROCESS-NAME-REGEX,(?i).*vanguard.*
   - PROCESS-NAME,vgc.exe
   - PROCESS-NAME,vgm.exe
+  - PROCESS-NAME,EasyAntiCheat.exe
   - PROCESS-NAME,denuvo-anti-cheat-update-service.exe
+  - DOMAIN-SUFFIX,codefusion.technology
   - PROCESS-NAME,EscapeFromTarkovArena_BE.exe
   - PROCESS-NAME,EscapeFromTarkov_BE.exe
   - PROCESS-NAME,EasyAntiCheat_EOS.exe
@@ -61,6 +64,7 @@ payload:
   - PROCESS-NAME,Discovery.exe
   - PROCESS-NAME,Discovery-d.exe
   - PROCESS-NAME-REGEX,(?i).*RustClient.*
+  - PROCESS-NAME,BsgLauncher.exe
   - PROCESS-NAME-REGEX,EscapeFromTarkov.*
   - PROCESS-NAME,UAGame.exe
   - PROCESS-NAME,MarvelRivals_Launcher.exe
@@ -68,6 +72,7 @@ payload:
   - PROCESS-NAME,Overwatch.exe
   - PROCESS-NAME,Battle.net.exe
   - PROCESS-NAME,BlizzardBrowser.exe
+  - PROCESS-NAME,Phasmophobia.exe
   - PROCESS-NAME,GenshinImpact.exe
   - PROCESS-NAME,ZenlessZoneZero.exe
   - PROCESS-NAME,StarRail.exe
@@ -80,40 +85,7 @@ payload:
   - PROCESS-NAME,Wuthering Waves.exe
   - PROCESS-NAME,KRWebView.exe
   - PROCESS-NAME,KRSDKExternal.exe
-  - PROCESS-NAME,steam.exe
-  - PROCESS-NAME,steamwebhelper.exe
-  - PROCESS-NAME,steamservice.exe
-  - PROCESS-NAME,csgo.exe
-  - PROCESS-NAME,LeagueClient.exe
-  - PROCESS-NAME,League of Legends.exe
-  - PROCESS-NAME,VALORANT.exe
-  - PROCESS-NAME,RiotClientServices.exe
-  - PROCESS-NAME,Hearthstone.exe
-  - PROCESS-NAME,Diablo IV.exe
-  - PROCESS-NAME,World of Warcraft.exe
-  - PROCESS-NAME,StarCraft II.exe
-  - PROCESS-NAME,Origin.exe
-  - PROCESS-NAME,EADesktop.exe
-  - PROCESS-NAME,r5apex.exe
-  - PROCESS-NAME,FIFA24.exe
-  - PROCESS-NAME,FIFA23.exe
-  - PROCESS-NAME,upc.exe
-  - PROCESS-NAME,UbisoftConnect.exe
-  - PROCESS-NAME,EpicGamesLauncher.exe
-  - PROCESS-NAME,FortniteClient-Win64-Shipping.exe
-  - PROCESS-NAME,PUBG-Win64-Shipping.exe
-  - PROCESS-NAME,TslGame.exe
-  - PROCESS-NAME,RustClient.exe
-  - PROCESS-NAME,rust.exe
-  - PROCESS-NAME,Cyberpunk2077.exe
-  - PROCESS-NAME,eldenring.exe
-  - PROCESS-NAME,GTA5.exe
-  - PROCESS-NAME,RDR2.exe
-  - PROCESS-NAME,bg3.exe
-  - PROCESS-NAME,bg3_dx11.exe
-  - PROCESS-NAME,ForzaHorizon5.exe
-  - PROCESS-NAME,Warthunder.exe
-  - PROCESS-NAME,WorldOfTanks.exe
-  - PROCESS-NAME,GOGGalaxy.exe
-  - PROCESS-NAME,playnite.exe
-  - PROCESS-NAME,Raft.exe
+  - DOMAIN-SUFFIX,faceit.com
+  - DOMAIN-SUFFIX,faceit-cdn.net
+  - DOMAIN-SUFFIX,cybershoke.net
+  - PROCESS-NAME,MIMESIS.exe

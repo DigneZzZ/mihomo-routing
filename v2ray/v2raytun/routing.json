@@ -58,7 +58,22 @@
         "geosite:pinterest",
         "geosite:google-play",
         "geosite:origin",
-        "geosite:twitch"
+        "geosite:twitch",
+        "domain:api.ipify.org",
+        "domain:calls.okcdn.ru",
+        "domain:checkip.amazonaws.com",
+        "domain:gosuslugi.ru",
+        "domain:gstatic.com",
+        "domain:ifconfig.me",
+        "domain:ip.mail.ru",
+        "domain:ipv4-internet.yandex.net",
+        "domain:ipv6-internet.yandex.net",
+        "domain:main.telegram.org",
+        "domain:mmg.whatsapp.net",
+        "domain:mtalk.google.com",
+        "domain:pushtrs.push.hicloud.com",
+        "domain:pushtrs1.push.hicloud.com",
+        "domain:token-drcn.push.dbankcloud.com"
       ],
       "outboundTag": "direct"
     },

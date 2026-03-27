@@ -10,7 +10,7 @@
   "DomesticDNSType": "DoH",
   "DomesticDNSDomain": "https://77.88.8.8/dns-query",
   "DomesticDNSIP": "77.88.8.8",
-  "LastUpdated": "1774587031",
+  "LastUpdated": "1774619216",
   "DnsHosts": {},
   "RouteOrder": "block-proxy-direct",
   "DirectSites": [
@@ -27,7 +27,9 @@
     "geosite:origin",
     "geosite:twitch",
     "geosite:pinterest",
-    "geosite:faceit"
+    "geosite:faceit",
+    "geosite:ip-check",
+    "geosite:vpndetect"
   ],
   "DirectIp": [
     "geoip:private",
