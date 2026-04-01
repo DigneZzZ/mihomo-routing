@@ -1,5 +1,5 @@
 # direct — auto-generated, do not edit
-# entries: 2851
+# entries: 2854
 +.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.10.in-addr.arpa
 +.100.100.in-addr.arpa
@@ -1891,6 +1891,8 @@ maps.apple.com
 +.mbheadphone.com
 +.mcchcdn.com
 +.me.com
++.medsi.com
++.medsi.pro
 +.meetfasttrack.com
 +.meetyourdevices.com
 +.memealerts.com
@@ -2493,6 +2495,7 @@ shell.cdn.office.net
 +.skypeassets.com
 +.skypeassets.net
 +.skypedata.akadns.net
++.smartmed.pro
 +.smotreshka.tv
 smp-device-content.apple.com
 +.sneaker666.com
