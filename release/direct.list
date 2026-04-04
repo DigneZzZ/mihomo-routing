@@ -1,5 +1,5 @@
 # direct — auto-generated, do not edit
-# entries: 2854
+# entries: 2855
 +.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.10.in-addr.arpa
 +.100.100.in-addr.arpa
@@ -1046,6 +1046,7 @@ cdn1.apple-mapkit.com
 cdn2.apple-mapkit.com
 cdn3.apple-mapkit.com
 cdn4.apple-mapkit.com
++.cdnvideohub.com
 cds-cdn.v.aaplimg.com
 cds.apple.com
 cds.apple.com.akadns.net
@@ -1744,8 +1745,8 @@ is5.mzstatic.com
 +.itunbes.com
 +.ituneas.com
 +.itunes-apple.cn
-itunes-apple.com.akadns.net
 +.itunes-apple.com.akadns.net
+itunes-apple.com.akadns.net
 +.itunes-radio.net
 itunes.apple.com
 +.itunes.ca
