@@ -1,5 +1,5 @@
 # reject — auto-generated, do not edit
-# entries: 1017
+# entries: 1058
 +.1oavsblobprodcus350.blob.core.windows.net
 +.1rx.io
 +.2mdn-cn.net
@@ -69,6 +69,9 @@ ad-display.diwodiwo.xyz
 +.adeng.hpplay.cn
 adeventtracker.spotify.com
 +.adfilter.imtt.qq.com
++.adfox.ru
+adfox.yandex.ru
+adfstat.yandex.ru
 +.adimg.mobile.sina.cn
 +.adimg.uve.weibo.com
 +.adinplay.com
@@ -79,6 +82,7 @@ adeventtracker.spotify.com
 +.adjust.net.in
 +.adjust.world
 +.adkwai.com
++.admetrica.ru
 +.admob-cn.com
 +.admob.com
 +.admob.xiaomi.com
@@ -110,6 +114,9 @@ adeventtracker.spotify.com
 +.ads.unitychina.cn
 +.ads.wteam.xyz
 +.ads.yahoo.com
++.ads.yandex
+ads.yandex.com
+ads.yandex.ru
 +.ads.youtube.com
 +.ads1.msads.net
 +.ads1.msn.com
@@ -119,6 +126,7 @@ ads5-normal-hl.zijieapi.com
 ads5-normal.zijieapi.com
 +.adscdn.baidu.com
 +.adsclick.qq.com
+adsdk.yandex.ru
 +.adse.wsa.ximalaya.com
 +.adse.ximalaya.com
 +.adsense.com
@@ -151,6 +159,8 @@ adstudio-assets.scdn.co
 +.adv.app.qq.com
 +.adv.sec.intl.miui.com
 +.adv.sec.miui.com
+adv.yandex.com
+adv.yandex.ru
 +.advapi.joyplus.tv
 +.advapikj.joyplus.tv
 +.adver.qq.com
@@ -178,15 +188,19 @@ adstudio-assets.scdn.co
 +.alogs.umeng.com
 +.alogus.umeng.com
 +.amazon-adsystem.com
+amc.yandex.ru
+an.yandex.ru
 +.analytics-alv.google.com
 +.analytics-data.io
 +.analytics.163.com
 +.analytics.facebook.com
 analytics.google.com
+analytics.mobile.yandex.net
 +.analytics.tiktok.com
 +.analytics.umetrip.com
 +.analytics.vpc.duolingo.com
 +.api-adservices.apple.com
+api.appmetrica.yandex.ru
 +.api.cortana.ai
 +.api.edgeoffer.microsoft.com
 apilog-web.acfun.cn
@@ -267,10 +281,12 @@ bloodhound.spotify.com
 +.bn4sch101123202.wns.windows.com
 +.bn4sch102110124.wns.windows.com
 browser-intake-datadoghq.com
+browser-updater.yandex.net
 +.browser.events.data.msn.cn
 +.browser.events.data.msn.com
 +.browser.pipe.aria.microsoft.com
 +.bs.serving-sys.com
+bs.yandex.ru
 +.btrace.qq.com
 +.bugly.qq.com
 +.byteadverts.com
@@ -396,6 +412,8 @@ browser-intake-datadoghq.com
 +.china-caa.org
 +.chinaciaf.org
 +.clarity.ms
+clck.yandex.net
+clck.yandex.ru
 +.clearbit.com
 +.clearbitjs.com
 +.clearbitscripts.com
@@ -404,6 +422,7 @@ browser-intake-datadoghq.com
 +.click.hunantv.com
 +.click.uve.mobile.sina.cn
 +.click.uve.weibo.com
+clickstream.sberbank.ru
 +.cloudpush.iqiyi.com
 +.cm.baidu.com
 +.cnaa123.com
@@ -417,6 +436,8 @@ browser-intake-datadoghq.com
 +.copilot-telemetry.githubusercontent.com
 +.corp.sts.microsoft.com
 +.corpext.msitadfs.glbdns2.microsoft.com
+counter.yandex.net
+counter.yandex.ru
 +.cpmstar.com
 +.cpro.baidu.com
 +.cpro.baidustatic.com
@@ -478,6 +499,7 @@ disney.my.sentry.io
 +.ems.youku.com
 +.ero-advertising.com
 +.eroadvertising.com
+error-tracking.megamarket.tech
 +.euads-o.api.leiniao.com
 +.evt.mxplay.com
 +.exoclick.com
@@ -652,6 +674,7 @@ disney.my.sentry.io
 +.imgstat.baidu.com
 +.imp.go.sohu.com
 +.impact-ad.jp
+informer.yandex.ru
 +.inner-active.mobi
 +.innovid.com
 +.insideruser.trafficmanager.net
@@ -709,10 +732,13 @@ log5-applog.fqnovel.com
 +.marketing.alibaba.com
 +.marketingplatform.google.com
 +.mbdlog.iqiyi.com
+mc.yandex.com
+mc.yandex.ru
 +.mcs.snssdk.com
 +.mdt.qq.com
 +.mediav.com
 +.metrics.duolingo.com
+metrika.yandex.ru
 +.mfadsrvr.com
 +.mgid.com
 +.miao.baidu.com
@@ -815,7 +841,9 @@ pinggai7.caixin.com
 pinggai8.caixin.com
 pinggai9.caixin.com
 +.pingjs.qq.com
+pix.yandex.ru
 +.pixel.facebook.com
+pixel.yandex.net
 +.pl.youku.com
 +.plbslog.umeng.com
 +.pmir.3g.qq.com
@@ -841,6 +869,9 @@ pinggai9.caixin.com
 +.realsrv.com
 +.redir.metaservices.microsoft.com
 +.reke.at.sohu.com
+report-partners.appmetrica.yandex.net
+report.ap.yandex-net.ru
+report.appmetrica.yandex.net
 +.report.qqweb.qq.com
 +.report.tencentmusic.com
 +.res.hunantv.com
@@ -863,6 +894,7 @@ rtlog5-applog.fqnovel.com
 +.sabavision.com
 +.samsungads.com
 +.sbeacon.sina.com.cn
++.sbermarketing.ru
 +.schemas.microsoft.akadns.net
 +.sclick.baidu.com
 +.sdkclick.mobile.sina.cn
@@ -876,6 +908,7 @@ rtlog5-applog.fqnovel.com
 +.sentry.d.xiaomi.net
 sentry.hetzner.company
 +.sentry.music.163.com
+sentry.sberauto.com
 +.serving-sys.com
 +.settings-sandbox.data.microsoft.com
 +.settings-win-ppe.data.microsoft.com
@@ -941,6 +974,7 @@ sentry.hetzner.company
 +.toboads.com
 +.tpstelemetry.tencent.com
 +.trace.qq.com
+tracing-http.megamarket.tech
 +.track.lc.quark.cn
 +.track.sohu.com
 +.tracker.ai.xiaomi.com
@@ -978,6 +1012,7 @@ sentry.hetzner.company
 +.v6-adashx.ut.taobao.com
 +.v6-adashx.ut.youku.com
 +.view.atdmt.com
+visor.sberbank.ru
 +.vortex-sandbox.data.microsoft.com
 +.vortex.data.glbdns2.microsoft.com
 +.vortex.data.microsoft.com
@@ -987,6 +1022,8 @@ sentry.hetzner.company
 +.watson.live.com
 +.watson.microsoft.com
 +.wbclick.mobile.sina.cn
++.webvisor.com
++.webvisor.org
 +.weus2watcab01.blob.core.windows.net
 +.weus2watcab02.blob.core.windows.net
 +.win10.ipv6.microsoft.com
@@ -1001,6 +1038,10 @@ wlog.kuaishou.com
 +.wwads.cn
 +.xblgdvrassets3010.blob.core.windows.net
 +.xy-log.tagtic.cn
+yabs.yandex.ru
++.yads.tech
++.yandex-metrica.ru
++.yandexmetrica.com
 +.yektanet.com
 +.yfanads.cn
 +.yfanads.com

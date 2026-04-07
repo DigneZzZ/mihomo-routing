@@ -1,5 +1,5 @@
 # direct — auto-generated, do not edit
-# entries: 2854
+# entries: 2927
 +.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 +.10.in-addr.arpa
 +.100.100.in-addr.arpa
@@ -87,6 +87,19 @@
 +.2beatsdre.com
 +.2buybeatsbydre.com
 +.2drdrebeats.com
++.2gis.ae
++.2gis.am
++.2gis.az
++.2gis.by
++.2gis.com
++.2gis.com.cy
++.2gis.cz
++.2gis.ge
++.2gis.kg
++.2gis.kz
++.2gis.tj
++.2gis.ua
++.2gis.uz
 +.30.172.in-addr.arpa
 +.31.172.in-addr.arpa
 +.40shopping.com
@@ -152,6 +165,16 @@ a5.mzstatic.com
 +.adaptivecards.io
 adcdownload.apple.com
 adcdownload.apple.com.akadns.net
++.adfox.ru
+adfox.yandex.ru
+adfstat.yandex.ru
++.admetrica.ru
++.ads.yandex
+ads.yandex.com
+ads.yandex.ru
+adsdk.yandex.ru
+adv.yandex.com
+adv.yandex.ru
 +.advertising.apple.com
 +.aeasyshop.com
 +.aggresmart.com
@@ -167,6 +190,8 @@ adcdownload.apple.com.akadns.net
 +.aka.ms
 +.albeats.com
 +.alchemysynth.com
++.alfabank.st
+amc.yandex.ru
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
@@ -176,6 +201,8 @@ amp-api-updates.apps.apple.com
 amp-api.apps.apple.com
 amp-api.media.apple.com
 amp-api.music.apple.com
+an.yandex.ru
+analytics.mobile.yandex.net
 +.ankarazirvesi2018.com
 +.annstores.net
 aod-ssl.itunes.apple.com
@@ -185,6 +212,7 @@ aod.itunes.apple.com
 +.api-adservices.apple.com
 api-edge.apps.apple.com
 +.api-extractor.com
+api.appmetrica.yandex.ru
 +.apihub-internal.cn
 +.apisof.net
 +.aple.com
@@ -981,6 +1009,7 @@ bookkeeper.itunes.apple.com
 +.bossae.com
 +.boswp.com
 +.botframework.com
++.bps-sberbank.by
 +.braeburncapital.com
 +.brandeasygo.com
 +.brandelectronic.com
@@ -988,8 +1017,10 @@ bookkeeper.itunes.apple.com
 +.brands098.com
 +.brazilpartneruniversity.com
 +.breakdown.me
+browser-updater.yandex.net
 +.browser.events.data.msn.cn
 +.browser.events.data.msn.com
+bs.yandex.ru
 build.microsoft.com
 +.burstly.net
 +.burstlyrewards.com
@@ -1132,11 +1163,16 @@ cl4.apple.com
 cl5-cdn.origin-apple.com.akadns.net
 cl5.apple.com
 +.clarity.ms
+clck.yandex.net
+clck.yandex.ru
+clickstream.sberbank.ru
 client-api.itunes.apple.com
 clientflow.apple.com
 clientflow.apple.com.akadns.net
 +.cloudapp.net
 +.cloudappsecurity.com
++.cloudru.cn
++.clstorage.net
 cma.itunes.apple.com
 +.cmhalq.com
 cn-smp-paymentservices.apple.com
@@ -1159,6 +1195,8 @@ configuration.apple.com.akadns.net
 +.cortanaskills.com
 +.cosmosdb.info
 +.cosmosdb.net
+counter.yandex.net
+counter.yandex.ru
 +.courier-push-apple.com.akadns.net
 +.cozydrdrebeats.com
 +.cqcorea.com
@@ -1334,6 +1372,8 @@ dykkng5hnh52u.cloudfront.net
 +.ecgapp.com.cn
 +.ecgapp.net
 +.edu-research.org
+edu.tinkoff.ru
+education.tbank.ru
 +.efproject.net
 +.elderscrolls.com
 +.emac.co.in
@@ -1342,6 +1382,7 @@ dykkng5hnh52u.cloudfront.net
 +.emias.info
 emoi-cncdn.bing.com
 +.engkoo.com
+error-tracking.megamarket.tech
 +.esbeatsbydrebuy.com
 +.etheadphones.com
 +.euroipad.com
@@ -1389,6 +1430,8 @@ fs.microsoft.com
 +.gamepass.com
 +.gamesstack.com
 +.gameuxmasterguide.com
++.gazprombank.com
++.gazprombank.investments
 +.gears5.com
 +.gearspop.com
 +.gearstactics.com
@@ -1397,6 +1440,7 @@ fs.microsoft.com
 +.gfx.ms
 +.gh.io
 +.ghcr.io
++.giga.chat
 +.gigjam.com
 +.git.io
 github-api.arkoselabs.com
@@ -1585,6 +1629,7 @@ inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
 +.incentivetravelgifts.com
 +.indiaipad.com
+informer.yandex.ru
 +.ingads.com
 ingest.apple-studies.com
 init-kt.apple.com
@@ -1745,8 +1790,8 @@ is5.mzstatic.com
 +.itunbes.com
 +.ituneas.com
 +.itunes-apple.cn
-itunes-apple.com.akadns.net
 +.itunes-apple.com.akadns.net
+itunes-apple.com.akadns.net
 +.itunes-radio.net
 itunes.apple.com
 +.itunes.ca
@@ -1789,7 +1834,6 @@ js-cdn.music.apple.com
 +.jwt.ms
 +.kickshatchannel.com
 +.kidgrid.tv
-+.kinopoisk-ru.clstorage.net
 +.kinorium.com
 km.support.apple.com
 +.kobbeatssbydredk.com
@@ -1890,17 +1934,22 @@ maps.apple.com
 +.masalladeloslimites.com
 +.mbeats-tech.com
 +.mbheadphone.com
+mc.yandex.com
+mc.yandex.ru
 +.mcchcdn.com
 +.me.com
 +.medsi.com
 +.medsi.pro
 +.meetfasttrack.com
 +.meetyourdevices.com
++.megamarket.tech
 +.memealerts.com
 +.mepn.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 mesu.apple.com
++.meteum.ai
+metrika.yandex.ru
 metro.spb.ru
 +.mgmt-azure-api.cn
 +.microbit.org
@@ -2352,7 +2401,9 @@ pd.itunes.apple.com
 +.pinterest.uk
 +.pinterest.vn
 +.pinterestmail.com
+pix.yandex.ru
 +.pixapp.net
+pixel.yandex.net
 play-edge.itunes.apple.com
 +.play-fe.googleapis.com
 +.play-games.googleusercontent.com
@@ -2412,6 +2463,9 @@ redirector.c.play.google.com
 +.renovacionoffice.com
 +.renovacionxboxlive.com
 +.repo.new
+report-partners.appmetrica.yandex.net
+report.ap.yandex-net.ru
+report.appmetrica.yandex.net
 +.repsneakermall.com
 +.repswing.com
 res-1.cdn.office.net
@@ -2450,7 +2504,13 @@ s5.mzstatic.com
 +.samebags.com
 +.sankie.net
 +.sanvaras.com
++.sber-bank.by
++.sber.pro
++.sberauto.com
 +.sberbank.com
++.sbercloud.tech
++.sbermarketing.ru
+sberpro.vedomosti.ru
 +.scnshop.cc
 sdx.microsoft.com
 se-edge.itunes.apple.com
@@ -2459,6 +2519,7 @@ search.itunes.apple.com
 seed-sequoia.siri.apple.com
 seed-swallow.siri.apple.com
 seed.siri.apple.com
+sentry.sberauto.com
 sequoia.apple.com
 +.serverlesslibrary.net
 +.services-apple.net
@@ -2474,6 +2535,7 @@ sh-pod2-smp-device.apple.com
 +.sharepointonline.com
 shazam-insights.cdn-apple.com
 +.shazam.com
++.shedevrum.ai
 shell.cdn.office.net
 +.shoers.com
 +.shoestop2.com
@@ -2505,6 +2567,7 @@ smp-device-content.apple.com
 software.download.prss.microsoft.com
 +.solostudioksale.com
 +.soso7778.com
++.sourcecraft.dev
 sp.itunes.apple.com
 +.specialtyheadphones.com
 speedysub.music.apple.com
@@ -2518,6 +2581,7 @@ st-ok-pts.cdn-vk.ru
 st-ok.cdn-vk.ru
 +.staffhub.ms
 +.start.com
++.static-storage.net
 static.gc.apple.com
 statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
@@ -2595,6 +2659,7 @@ tf-feedback.itunes.apple.com
 +.theuab.net
 +.thinkdifferent.us
 +.timelinestoryteller.com
++.tinkoff-group.com
 +.tips.tips
 tj-pod1-smp-device.apple.com
 +.tochka-tech.com
@@ -2606,6 +2671,7 @@ tj-pod1-smp-device.apple.com
 +.touchid.wang
 +.tplinkwifi.net
 tplogin.cn
+tracing-http.megamarket.tech
 +.tracking-location.com
 +.tradevip1.com
 +.trafficmanager.cn
@@ -2629,6 +2695,7 @@ tv.applemusic.com
 +.ubnw.net
 +.ukipad.com
 +.uni.rest
++.unidraw.io
 +.unirest.tech
 +.unity3dcloud.cn
 +.unlocklimitlesslearning.com
@@ -2654,6 +2721,7 @@ valid.origin-apple.com.akadns.net
 +.vipheadphones.com
 +.vipshoes2.com
 +.virtualearth.net
+visor.sberbank.ru
 +.visualstudio-staging.com
 +.visualstudio.co
 +.visualstudio.co.uk
@@ -2804,13 +2872,15 @@ www.support.apple.com
 +.xn--p1ai
 +.xn--ruq8a011kt6y.xn--hxt814e
 xp.apple.com
++.ya.cc
+yabs.yandex.ru
 +.yads.tech
 +.yammer.com
 +.yandex
 +.yandex-bank.net
-+.yandex-images.clstorage.net
-yandex-pogoda.static-storage.net
++.yandex-metrica.ru
 +.yandex.aero
++.yandex.asia
 +.yandex.az
 +.yandex.by
 +.yandex.cloud
@@ -2831,6 +2901,7 @@ yandex-pogoda.static-storage.net
 +.yandex.lt
 +.yandex.lv
 +.yandex.md
++.yandex.mobi
 +.yandex.net
 +.yandex.org
 +.yandex.pl
@@ -2854,3 +2925,5 @@ youla-web-static.mrgcdn.ru
 +.youla.io
 +.yourmonsterbeats.com
 +.zte.home
++.zvuk-b2b.com
++.zvuk.com
