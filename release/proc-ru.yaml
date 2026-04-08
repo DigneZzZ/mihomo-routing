@@ -131,6 +131,7 @@ payload:
   - PROCESS-NAME,ru.mts.mtstv
   - PROCESS-NAME,ru.mts.mymts
   - PROCESS-NAME,ru.mvm.eldo
+  - PROCESS-NAME,ru.sportmaster.app
   - PROCESS-NAME,ru.myspar
   - PROCESS-NAME,ru.nalog.rmr.client
   - PROCESS-NAME,ru.nspk.mir.loyalty
@@ -290,3 +291,5 @@ payload:
   - PROCESS-NAME,ru.tele2.mytele2
   - PROCESS-NAME,by.advasoft.android.troika.app
   - PROCESS-NAME,com.octopod.russianpost.client.android
+  - PROCESS-NAME,ru.dahl.messenger
+  - PROCESS-NAME,ru.dns.shop.android
