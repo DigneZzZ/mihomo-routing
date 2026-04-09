@@ -40,18 +40,26 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - rule-set:direct
+  # bootstrap — plain UDP, used only to resolve DoH hostnames
   default-nameserver:
     - 1.1.1.1
     - 8.8.8.8
+  # resolve VPN server address — plain UDP (no proxy yet)
   proxy-server-nameserver:
     - 1.1.1.1
     - 8.8.8.8
+  # direct traffic — Yandex DoH (RU-friendly) + Google DoH via proxy as backup
   direct-nameserver:
-    - 77.88.8.8
-    - 77.88.8.1
+    - https://common.dns.yandex.net/dns-query
+    - https://8.8.8.8/dns-query#PROXY
+  # main resolver — Cloudflare DoH direct + Google DoH via proxy
   nameserver:
-    - 1.1.1.1#PROXY
-    - 8.8.8.8#PROXY
+    - https://1.1.1.1/dns-query
+    - https://8.8.8.8/dns-query#PROXY
+  # fallback if primary DoH degrades
+  fallback:
+    - https://1.0.0.1/dns-query
+    - https://8.8.4.4/dns-query#PROXY
 
 sniffer:
   enable: true
