@@ -1,5 +1,5 @@
 # reject — auto-generated, do not edit
-# entries: 1065
+# entries: 1122
 +.1oavsblobprodcus350.blob.core.windows.net
 +.1rx.io
 +.2mdn-cn.net
@@ -34,6 +34,7 @@ ad-display.diwodiwo.xyz
 +.ad.m.iqiyi.com
 +.ad.mi.com
 +.ad.mobile.youku.com
++.ad.ozone.ru
 +.ad.qq.com
 +.ad.qun.qq.com
 +.ad.sina.com.cn
@@ -95,6 +96,8 @@ adeventtracker.spotify.com
 +.adpm.app.qq.com
 +.adq.chinaso.com
 +.ads-api.duolingo.com
++.ads-gate.wildberries.ru
++.ads-media.wildberries.ru
 +.ads-pixiv.net
 +.ads-twitter.com
 +.ads-union.jd.com
@@ -105,6 +108,7 @@ adeventtracker.spotify.com
 +.ads.huantest.com
 +.ads.msn.com
 +.ads.music.126.net
++.ads.neon.click
 +.ads.service.kugou.com
 +.ads.sina.com
 +.ads.sohu.com
@@ -112,7 +116,9 @@ adeventtracker.spotify.com
 +.ads.uc.cn
 +.ads.union.jd.com
 +.ads.unitychina.cn
++.ads.wildberries.ru
 +.ads.wteam.xyz
++.ads.x5media.ru
 +.ads.yahoo.com
 +.ads.yandex
 +.ads.yandex.com
@@ -158,6 +164,7 @@ adstudio-assets.scdn.co
 +.adv-sv-show.focus.cn
 +.adv-sv-stat.focus.cn
 +.adv.app.qq.com
++.adv.ozon.ru
 +.adv.sec.intl.miui.com
 +.adv.sec.miui.com
 +.adv.yandex.com
@@ -165,6 +172,12 @@ adstudio-assets.scdn.co
 +.advapi.joyplus.tv
 +.advapikj.joyplus.tv
 +.adver.qq.com
++.advert-api-sandbox.wb.ru
++.advert-api-sandbox.wildberries.ru
++.advert-api.wb.ru
++.advert-api.wildberries.ru
++.advert-media-api.wb.ru
++.advert-media-api.wildberries.ru
 +.advertisercommunity.com
 +.advertiserscommunity.com
 +.advertising.adobe.com
@@ -180,6 +193,7 @@ adstudio-assets.scdn.co
 +.afd.baidu.com
 +.afdconf.baidu.com
 +.afp.iqiyi.com
++.agency-adv.ozon.ru
 +.aidps.atdmt.com
 +.aka-cdn-ns.adtech.de
 +.alimama.alicdn.com
@@ -191,8 +205,10 @@ adstudio-assets.scdn.co
 +.amazon-adsystem.com
 +.amc.yandex.ru
 +.an.yandex.ru
++.analytics-adv.ozon.ru
 +.analytics-alv.google.com
 +.analytics-data.io
++.analytics-stage.wildberries.ru
 +.analytics.163.com
 +.analytics.facebook.com
 analytics.google.com
@@ -200,9 +216,28 @@ analytics.google.com
 +.analytics.tiktok.com
 +.analytics.umetrip.com
 +.analytics.vpc.duolingo.com
++.analytics.wildberries.ru
 +.api-adservices.apple.com
++.api-eu.carrotquest.app
++.api-eu.carrotquest.io
++.api-js.mindbox.ru
++.api-ru.carrotquest.app
++.api-ru.carrotquest.io
++.api-ru.mindbox.cloud
++.api-secure.carrotquest.app
++.api-secure.carrottrack.app
++.api-staging.mindbox.ru
++.api.carrotquest.app
++.api.carrotquest.io
++.api.carrottrack.app
 +.api.cortana.ai
++.api.dashly.app
++.api.dashlytrack.app
++.api.e.mindbox.ru
 +.api.edgeoffer.microsoft.com
++.api.mindbox.cloud
++.api.mindbox.ru
++.api.s.mindbox.ru
 apilog-web.acfun.cn
 +.app-analytics-services-att.com
 +.app-analytics-services.com
@@ -237,6 +272,7 @@ apilog-web.acfun.cn
 +.beacon.qq.com
 +.beacon.sina.com.cn
 +.beaconcdn.qq.com
++.beginners-adv.ozon.ru
 +.beizi.biz
 +.bingads.com
 +.bingads.microsoft.com
@@ -428,7 +464,7 @@ browser-intake-datadoghq.com
 +.click.hunantv.com
 +.click.uve.mobile.sina.cn
 +.click.uve.weibo.com
-clickstream.sberbank.ru
++.clickstream.sberbank.ru
 +.cloudpush.iqiyi.com
 +.cm.baidu.com
 +.cnaa123.com
@@ -505,7 +541,7 @@ disney.my.sentry.io
 +.ems.youku.com
 +.ero-advertising.com
 +.eroadvertising.com
-error-tracking.megamarket.tech
++.error-tracking.megamarket.tech
 +.euads-o.api.leiniao.com
 +.evt.mxplay.com
 +.exoclick.com
@@ -537,6 +573,7 @@ error-tracking.megamarket.tech
 +.gmossp-sp.jp
 +.go2.global
 +.google-analytics-cn.com
++.google-analytics-suite.ozon.ru
 +.google-analytics.com
 +.googleadapis.com
 +.googleadapis.l.google.com
@@ -728,6 +765,7 @@ log5-applog.fqnovel.com
 +.logs.amap.com
 +.logs.chelaile.net.cn
 +.logupdate.avlyun.sec.miui.com
++.loyalnost-adv.ozon.ru
 +.lqc006.com
 +.lstat.youku.com
 +.lu.sogou.com
@@ -787,6 +825,7 @@ log5-applog.fqnovel.com
 +.nelreports.net
 +.new-aaid.umeng.com
 +.new-aaid.umeng.com.gds.alibabadns.com
++.new-adv.ozon.ru
 +.nexus.officeapps.live.com
 +.nexusrules.officeapps.live.com
 +.ns1p.net
@@ -861,6 +900,7 @@ pinggai9.caixin.com
 +.presage.io
 +.presence.teams.live.com
 +.preview.msn.com
++.prodvizhenie-adv.ozon.ru
 +.pubmatic.co.jp
 +.pubmatic.com
 +.push.qq.com
@@ -870,6 +910,7 @@ pinggai9.caixin.com
 +.qpb.sohu.com
 +.qpb1.sohu.com
 +.qqdata.ab.qq.com
++.questions-adv.ozon.ru
 +.qwapi.com
 +.rad.live.com
 +.rad.msn.com
@@ -913,8 +954,13 @@ rtlog5-applog.fqnovel.com
 +.sentry.d.mi.com
 +.sentry.d.xiaomi.net
 sentry.hetzner.company
++.sentry.mindbox.ru
 +.sentry.music.163.com
-sentry.sberauto.com
++.sentry.ozon.ru
++.sentry.popmechanic.ru
++.sentry.sberauto.com
++.sentry.wb.ru
++.sentry.x5.ru
 +.serving-sys.com
 +.settings-sandbox.data.microsoft.com
 +.settings-win-ppe.data.microsoft.com
@@ -980,12 +1026,15 @@ sentry.sberauto.com
 +.toboads.com
 +.tpstelemetry.tencent.com
 +.trace.qq.com
-tracing-http.megamarket.tech
++.tracing-http.megamarket.tech
 +.track.lc.quark.cn
 +.track.sohu.com
 +.tracker.ai.xiaomi.com
 +.tracker.xiaomixiaoai.com
 +.tracking.miui.com
++.tracking.ocourier.ru
++.tracking.ozon-dostavka.ru
++.tracking.ozon.ru
 +.trafficfactory.biz
 +.tsyndicate.com
 +.tubemogul.com
@@ -1018,7 +1067,7 @@ tracing-http.megamarket.tech
 +.v6-adashx.ut.taobao.com
 +.v6-adashx.ut.youku.com
 +.view.atdmt.com
-visor.sberbank.ru
++.visor.sberbank.ru
 +.vortex-sandbox.data.microsoft.com
 +.vortex.data.glbdns2.microsoft.com
 +.vortex.data.microsoft.com
@@ -1028,6 +1077,7 @@ visor.sberbank.ru
 +.watson.live.com
 +.watson.microsoft.com
 +.wbclick.mobile.sina.cn
++.web-analytics.wildberries.ru
 +.webvisor.com
 +.webvisor.org
 +.weus2watcab01.blob.core.windows.net
@@ -1042,6 +1092,13 @@ wlog.kuaishou.com
 +.wmbd.gamersky.com
 +.wuliao.epro.sogou.com
 +.wwads.cn
++.xapi.ozon.by
++.xapi.ozon.com
++.xapi.ozon.com.by
++.xapi.ozon.com.kz
++.xapi.ozon.kz
++.xapi.ozon.ru
++.xapi.ozonru.me
 +.xblgdvrassets3010.blob.core.windows.net
 +.xy-log.tagtic.cn
 +.yabs.yandex.ru
