@@ -1,7 +1,7 @@
 {
   "Name": "DigneZzZ (lite)",
   "GlobalProxy": "true",
-  "UseChunkFiles": "true",
+  "UseChunkFiles": "false",
   "RemoteDns": "8.8.8.8",
   "DomesticDns": "77.88.8.8",
   "RemoteDNSType": "DoH",
@@ -10,7 +10,7 @@
   "DomesticDNSType": "DoH",
   "DomesticDNSDomain": "https://77.88.8.8/dns-query",
   "DomesticDNSIP": "77.88.8.8",
-  "LastUpdated": "1776184053",
+  "LastUpdated": "1776198109",
   "DnsHosts": {},
   "RouteOrder": "block-proxy-direct",
   "DirectSites": [
