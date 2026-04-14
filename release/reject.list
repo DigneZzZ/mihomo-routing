@@ -1,5 +1,7 @@
 # reject — auto-generated, do not edit
-# entries: 1128
+# entries: 1192
++.1l-hit.mail.ru
++.1l-hit.vkplay.ru
 +.1oavsblobprodcus350.blob.core.windows.net
 +.1rx.io
 +.2mdn-cn.net
@@ -32,6 +34,7 @@ ad-display.diwodiwo.xyz
 +.ad.hpplay.cn
 +.ad.intl.xiaomi.com
 +.ad.m.iqiyi.com
++.ad.mail.ru
 +.ad.mi.com
 +.ad.mobile.youku.com
 +.ad.ozone.ru
@@ -46,6 +49,7 @@ ad-display.diwodiwo.xyz
 +.ad.weixin.qq.com
 +.ad.xiaomi.com
 +.ad1.xiaomi.com
++.ad4.mail.ru
 +.adash-c.m.taobao.com
 +.adash-c.ut.taobao.com
 +.adash-emas.cn-hangzhou.aliyuncs.com
@@ -62,6 +66,7 @@ ad-display.diwodiwo.xyz
 +.adashxgc.ut.taobao.com
 +.adbehavior.ximalaya.com
 +.adbkwai.com
++.adblogger.vk.com
 +.adbox.sina.com.cn
 +.adbutter.net
 +.adc.hpplay.cn
@@ -97,6 +102,7 @@ adeventtracker.spotify.com
 +.adq.chinaso.com
 +.ads-api.duolingo.com
 +.ads-gate.wildberries.ru
++.ads-integration.rustore.ru
 +.ads-media.wildberries.ru
 +.ads-pixiv.net
 +.ads-twitter.com
@@ -104,10 +110,13 @@ adeventtracker.spotify.com
 +.ads-uo.api.leiniao.com
 +.ads-ut.api.leiniao.com
 +.ads.api.my7v.com
++.ads.dahlmessenger.com
 +.ads.huan.tv
 +.ads.huantest.com
++.ads.icq.com
 +.ads.msn.com
 +.ads.music.126.net
++.ads.rustore.ru
 +.ads.sber.ru
 +.ads.service.kugou.com
 +.ads.sina.com
@@ -116,6 +125,9 @@ adeventtracker.spotify.com
 +.ads.uc.cn
 +.ads.union.jd.com
 +.ads.unitychina.cn
++.ads.viqeo.tv
++.ads.vk.com
++.ads.vk.ru
 +.ads.wildberries.ru
 +.ads.wteam.xyz
 +.ads.x5media.ru
@@ -131,6 +143,10 @@ ads3-normal-hl.zijieapi.com
 ads3-normal.zijieapi.com
 ads5-normal-hl.zijieapi.com
 ads5-normal.zijieapi.com
++.adsadvisor.io
++.adsapp.dahlmessenger.com
++.adsapp.stage.telega.info
++.adsapp.telega.info
 +.adscdn.baidu.com
 +.adsclick.qq.com
 +.adsdk.yandex.ru
@@ -165,6 +181,7 @@ adstudio-assets.scdn.co
 +.adv-sv-stat.focus.cn
 +.adv.app.qq.com
 +.adv.ozon.ru
++.adv.rustore.ru
 +.adv.sec.intl.miui.com
 +.adv.sec.miui.com
 +.adv.yandex.com
@@ -202,8 +219,10 @@ adstudio-assets.scdn.co
 +.alog.umengcloud.com
 +.alogs.umeng.com
 +.alogus.umeng.com
++.alt-r.my.com
 +.amazon-adsystem.com
 +.amc.yandex.ru
++.an.mail.ru
 +.an.yandex.ru
 +.analytics-adv.ozon.ru
 +.analytics-alv.google.com
@@ -215,6 +234,8 @@ analytics.google.com
 +.analytics.mobile.yandex.net
 +.analytics.tiktok.com
 +.analytics.umetrip.com
++.analytics.vk.com
++.analytics.vk.ru
 +.analytics.vpc.duolingo.com
 +.analytics.wildberries.ru
 +.api-adservices.apple.com
@@ -248,6 +269,7 @@ apilog-web.acfun.cn
 +.appmetrica.yandex.net
 +.appmetrica.yandex.ru
 +.appmetrica.yango.com
++.apptracer.ru
 +.ar.umeng.com
 +.ark.letv.com
 +.asimov-win.settings.data.microsoft.com.akadns.net
@@ -261,6 +283,7 @@ apilog-web.acfun.cn
 +.audid.umeng.com
 +.azwancan.trafficmanager.net
 +.b.ads2.msads.net
++.b2.mail.ru
 +.badjs.weixinbridge.com
 +.baichuan-sdk.alicdn.com
 +.baifen.music.baidu.com
@@ -323,6 +346,7 @@ browser-intake-datadoghq.com
 +.browser.events.data.msn.cn
 +.browser.events.data.msn.com
 +.browser.pipe.aria.microsoft.com
++.bs.mail.ru
 +.bs.serving-sys.com
 +.bs.yandex.ru
 +.btrace.qq.com
@@ -460,6 +484,7 @@ browser-intake-datadoghq.com
 +.click.ali213.net
 +.click.gamersky.com
 +.click.hunantv.com
++.click.rustore.ru
 +.click.uve.mobile.sina.cn
 +.click.uve.weibo.com
 +.clickstream.sberbank.ru
@@ -491,6 +516,7 @@ browser-intake-datadoghq.com
 +.cstm.baidu.com
 +.ctobsnssdk.com
 +.cupid.iqiyi.com
++.cxhub.ru
 +.cy2.vortex.data.microsoft.com.akadns.net
 +.da.hunantv.com
 +.da.mgtv.com
@@ -751,6 +777,7 @@ disney.my.sentry.io
 log-sdk.gifshow.com
 +.log-upload-os.hoyoverse.com
 +.log-upload.mihoyo.com
++.log.dzen.ru
 +.log.hunantv.com
 +.log.mix.sina.com.cn
 +.log.sina.cn
@@ -788,6 +815,7 @@ log5-applog.fqnovel.com
 +.mediav.com
 +.metrics.21-school.ru
 +.metrics.duolingo.com
++.metrics.viqeo.tv
 +.metrika.yandex.ru
 +.mfadsrvr.com
 +.mgid.com
@@ -815,6 +843,9 @@ log5-applog.fqnovel.com
 +.mopub.com
 +.mountain.zhidao.baidu.com
 +.mpush.qq.com
++.ms.dzen.ru
++.ms.vk.com
++.ms.vk.ru
 +.msads.net
 +.msedge.net
 +.msg.video.qiyi.com
@@ -823,6 +854,7 @@ log5-applog.fqnovel.com
 +.msntest.serving-sys.com
 +.mtrace.qq.com
 +.mvad.com
++.myadx.net
 +.najva.com
 +.nbsdk-baichuan.alicdn.com
 +.nbsdk-baichuan.taobao.com
@@ -895,6 +927,7 @@ pinggai9.caixin.com
 +.pingjs.qq.com
 +.pix.yandex.ru
 +.pixel.facebook.com
++.pixel.rustore.ru
 +.pixel.yandex.net
 +.pl.youku.com
 +.plbslog.umeng.com
@@ -917,12 +950,20 @@ pinggai9.caixin.com
 +.qqdata.ab.qq.com
 +.questions-adv.ozon.ru
 +.qwapi.com
++.r.mail.ru
++.r.my.com
++.r0.mail.ru
++.r0.mradx.net
++.r1.mail.ru
 +.rad.live.com
 +.rad.msn.com
++.radar.imgsmail.ru
 +.reachmax.cn
 +.realsrv.com
 +.redir.metaservices.microsoft.com
 +.reke.at.sohu.com
++.reklama.mail.ru
++.relap.mail.ru
 +.report.ap.yandex-net.ru
 +.report.qqweb.qq.com
 +.report.tencentmusic.com
@@ -932,6 +973,7 @@ pinggai9.caixin.com
 +.reyun.com
 +.rmonitor.qq.com
 +.romeccs.microsoft.com
++.rs.mail.ru
 +.rs.sinajs.cn
 rtlog3-applog-hl.fqnovel.com
 rtlog3-applog.fqnovel.com
@@ -957,14 +999,19 @@ rtlog5-applog.fqnovel.com
 +.segmenthub.com
 +.segmentify.com
 +.sensors.umetrip.com.cn
++.sentry-ng.g.smailru.net
 +.sentry.d.mi.com
 +.sentry.d.xiaomi.net
++.sentry.dev-my.com
++.sentry.dev-my.games
 sentry.hetzner.company
 +.sentry.mindbox.ru
 +.sentry.music.163.com
 +.sentry.ozon.ru
 +.sentry.popmechanic.ru
++.sentry.rustore.ru
 +.sentry.sberauto.com
++.sentry.viqeo.tv
 +.sentry.wb.ru
 +.sentry.x5.ru
 +.serving-sys.com
@@ -994,6 +1041,7 @@ sentry.hetzner.company
 +.ssacdn.com
 +.ssp.api.tappx.com
 +.ssw.live.com
++.stacks.vk-portal.net
 +.stat.chinaso.com
 +.stat.m.jd.com
 +.stat.y.qq.com
@@ -1002,14 +1050,23 @@ sentry.hetzner.company
 +.static.javhd.com
 +.static.sensorsdata.cn
 +.statis.api.3g.youku.com
++.stats.dahlmessenger.com
++.stats.dev.telega.info
 +.stats.music.xiaomi.com
++.stats.rustore.ru
++.stats.telega.info
++.stats.vk-portal.net
 +.supersonic.com
 +.supersonicads-a.akamaihd.net
 +.supersonicads.com
 +.syh.zybang.com
++.t.mail.ru
 +.taboola.com
 +.tajs.qq.com
 +.tapsell.ir
++.target.my.com
++.target.vk.com
++.target.vk.ru
 +.tcbox.baidu.com
 +.tce.alicdn.com
 +.tcss.qq.com
@@ -1030,12 +1087,16 @@ sentry.hetzner.company
 +.tmeadcomm.y.qq.com
 +.tns.simba.taobao.com
 +.toboads.com
++.top-fwz1.mail.ru
++.top-staging.mail.ru
 +.tpstelemetry.tencent.com
 +.trace.qq.com
 +.tracing-http.megamarket.tech
 +.track.lc.quark.cn
 +.track.sohu.com
++.tracker-api.my.com
 +.tracker.ai.xiaomi.com
++.tracker.my.com
 +.tracker.xiaomixiaoai.com
 +.tracking.miui.com
 +.tracking.ocourier.ru
@@ -1074,6 +1135,7 @@ sentry.hetzner.company
 +.v6-adashx.ut.youku.com
 +.view.atdmt.com
 +.visor.sberbank.ru
++.vk-analytics.ru
 +.vortex-sandbox.data.microsoft.com
 +.vortex.data.glbdns2.microsoft.com
 +.vortex.data.microsoft.com
@@ -1088,6 +1150,7 @@ sentry.hetzner.company
 +.webvisor.org
 +.weus2watcab01.blob.core.windows.net
 +.weus2watcab02.blob.core.windows.net
++.whiteline.mail.ru
 +.win10.ipv6.microsoft.com
 +.win1710.ipv6.microsoft.com
 +.win8.ipv6.microsoft.com
@@ -1106,6 +1169,7 @@ wlog.kuaishou.com
 +.xapi.ozon.ru
 +.xapi.ozonru.me
 +.xblgdvrassets3010.blob.core.windows.net
++.xray.mail.ru
 +.xy-log.tagtic.cn
 +.yabs.yandex.ru
 +.yads.tech
