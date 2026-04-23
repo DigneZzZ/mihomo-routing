@@ -1,5 +1,5 @@
 # ai — auto-generated, do not edit
-# entries: 148
+# entries: 152
 ai.google.dev
 +.ai.studio
 +.aida.googleapis.com
@@ -44,6 +44,7 @@ cloudcode-pa.googleapis.com
 +.comfyregistry.org
 +.copilot.microsoft.com
 +.coze.com
++.crewai.com
 +.crixet.com
 +.cursor-cdn.com
 +.cursor.com
@@ -86,8 +87,10 @@ daily-cloudcode-pa.googleapis.com
 +.kiro.dev
 +.labs.google
 +.labs.google.com
++.langchain.com
 +.leonardo.ai
 +.liveperson.net
++.lmstudio.ai
 +.lovart.ai
 +.lpsnmedia.net
 +.luma.ai
@@ -107,6 +110,7 @@ notebooklm.googleapis.com
 o33249.ingest.sentry.io
 +.oaistatic.com
 +.oaiusercontent.com
++.ollama.com
 +.opal.google
 +.opal.google.com
 +.openai.com
